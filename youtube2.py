@@ -11,7 +11,7 @@ from urllib import request
 from bs4 import BeautifulSoup
 from selenium import webdriver
 
-api_key = "AIzaSyDk4rAJT5cIWiox7KlfRcLPf9YWSOKvXqk"
+api_key = "Add your own API Key here"
 
 class Helper:
     def __init__(self):
